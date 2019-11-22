@@ -13,6 +13,7 @@
 2. Flexible to different working flows and methods
 ### Efficient comunication and teamwork skills. 
 1. Good presentations, with visuals, diagrams and jokes to catch people's attention
+2. Good vibes with people in the lab, general niceness, favoring a healthy woriking enviroment.
 ### Compromised with society
 1. Two courses on feminism and one course on healthy masculinity
 2. Member of Extinction Rebellion 
