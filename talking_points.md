@@ -1,9 +1,10 @@
 # Talking points for Recomendation Letter
-### Independent, hard, passionate worker
+### Independent, hard, passionate, original worker
 1. Self-answer my questions
 2. Self-tought Python, VIM, LaTeX, Gravitational Lensing, Machine Learning...
 3. Quality of my reports: well structured and written, intuitive and selfexplanatory visualizations, solid mathematical background 
-4. High GPA
+4. Original and creative research: applying machine learning in my colaboration scholarship research project
+5. High GPA
 ### Interdisciplinar
 1. Mathematical Physics
 2. Extragalactic Astrophysics
