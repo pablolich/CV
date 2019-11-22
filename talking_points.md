@@ -1,6 +1,6 @@
 # Talking points for Recomendation Letter
 ## Independent, hard, passionate worker
-###         1. Self-answer many of my questions
+	###         1. Self-answer many of my questions
 ###	    2. Applying machine learning in my colaboration scholarship project
 ###	    3. Quality of my reports: well written, intuitive and selfexplanatory visualizations
 ###	    4. 
